@@ -43,6 +43,6 @@ npm run build
 
 - Instagram: [@barbeariasky](https://instagram.com/barbeariasky)
 - Endereço: R. Juvenal Mário da Silva, 285, sala 107 — Manaíra, João Pessoa/PB
-- Telefone: (83) 3021-5895
+- WhatsApp: [(83) 99936-8321](https://wa.me/5583999368321)
 
-> Primeira versão de interface com conteúdo público. Fotos e links oficiais de agendamento podem ser atualizados conforme os materiais definitivos da empresa.
+> Os agendamentos são direcionados ao WhatsApp oficial, com mensagens personalizadas para cada serviço.
